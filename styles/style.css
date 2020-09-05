@@ -107,7 +107,28 @@ img {
     margin: 27px auto;
 }
 
+.search-bar:hover {
+    box-shadow: 0 0 3px #20212447;
+}
+
+.search-bar:focus-within {
+    box-shadow: 0 0 3px #20212447;
+}
+
 input {
     border: none;
     color: #000000de;
+    width: 482px;
+}
+
+svg {
+    width: 20px;
+    height: 19px;
+    align-self: center;
+    margin: 0 10px 0 15px;
+    fill: #9aa0a6;
+}
+
+path {
+    scale: 82%;
 }
