@@ -97,3 +97,17 @@ img {
     display: block;
     margin: 156px auto 0;
 }
+
+.search-bar {
+    display: flex;
+    border: 1px solid #dfe1e5;
+    width: 584px;
+    height: 44px;
+    border-radius: 24px;
+    margin: 27px auto;
+}
+
+input {
+    border: none;
+    color: #000000de;
+}
