@@ -6,6 +6,12 @@ a:hover {
     text-decoration: underline;
 }
 
+nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
 ul {
     list-style-type: none;
     margin: 15px;
@@ -85,4 +91,9 @@ footer ul li a {
     font-size: 14px;
     color: #5f6368;
     padding: 12px 13.5px;
+}
+
+img {
+    display: block;
+    margin: 156px auto 0;
 }
