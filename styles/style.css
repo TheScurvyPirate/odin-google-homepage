@@ -115,7 +115,7 @@ img {
     box-shadow: 0 0 3px #20212447;
 }
 
-input {
+.search-bar input {
     border: none;
     color: #000000de;
     width: 482px;
