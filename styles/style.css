@@ -121,6 +121,10 @@ input {
     width: 482px;
 }
 
+input:focus {
+    outline: none;
+}
+
 svg {
     width: 20px;
     height: 19px;
